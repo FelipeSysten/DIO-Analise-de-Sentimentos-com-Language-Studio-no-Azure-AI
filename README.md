@@ -141,7 +141,7 @@ E também explica os preços e as boas práticas de IA responsável.
 ### Considerações Finais
 O laboratório foi muito instrutivo para apresentar as funcionalidade de fala e análise de texto, apesar de serem recursos visivelmente avançados o uso da ferramenta foi amigável e com ampla documentação de apoio para aplicar em projetos práticos!
 
-Toni A C Prado
+Felipe de Souza
 
 
 ----
